@@ -38,6 +38,6 @@ L'idéal est de trouver une balance entre tes connaissances et celles que tu vas
 Bon chance et profite bien, tu verras ce sera fun.
 
 <p align="center">
-    <img alt="Gif " src="https://giphy.com/gifs/dancing-dance-woo-zQLjk9d31jlMQ" width="400" />
+    <iframe src="https://giphy.com/embed/MVDPX3gaKFPuo" width="480" height="480" ></iframe>
 </p>
 
