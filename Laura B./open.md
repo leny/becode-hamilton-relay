@@ -37,7 +37,4 @@ L'idéal est de trouver une balance entre tes connaissances et celles que tu vas
 
 Bon chance et profite bien, tu verras ce sera fun.
 
-<p align="center">
-    <iframe src="https://giphy.com/embed/MVDPX3gaKFPuo" width="480" height="480" ></iframe>
-</p>
 
