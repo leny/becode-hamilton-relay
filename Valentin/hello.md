@@ -33,4 +33,4 @@ Profitez à fond, et vivez plainement cette aventure, en espérant que vous le v
 
 **BIG UP à TOUS!!**
 Jvous love!! 
-[I'm Out]!(https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif)
+[https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif]
