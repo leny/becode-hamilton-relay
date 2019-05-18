@@ -15,24 +15,6 @@ Je voulais vous écrire un petit mot mais je sens que je vais écrire un pavé. 
 Vous qui entrez ici, abandonnez tout espoir, car vous êtes partis pour presque 1 an de galère... et vous allez aimer ça. Si si, j'vous jure.
 
 
-- [❓ BeCode : késako ?](README.md#becode-késako)
-- 😔 Motivation
-- 👩‍🏫 Méthodologies
-    - 🏃‍ SCRUM
-    - 🍅 Pomodoro
-- 🔨 Outils
-    - 🃏 Ressources
-    - 🧱 Prototyping
-    - 🎨 Design
-    - ⌨️ Typographie
-    - 🚀 Technologies
-    - 📄 Données
-    - ⏱ Performance
-- 🏢 Stage
-- 🕓 Fin de promo
-- 🥔 Le mot de la fin
-
-
 ## ❓ BeCode : késako ?
 
 BeCode, c'est 7 mois de formation intensive. Vous allez apprendre autant (si pas plus) de choses durant cette période qu'un bachelier classique de 3 ans en développemet web. Vous serez constamment hors de votre zone de confort, en train de découvrir de nouveaux langages ou technologies à un rythme effréné.
