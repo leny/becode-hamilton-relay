@@ -2,10 +2,7 @@
 
 * * *
 
-<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/519d7408-0f35-4391-af6b-8777a9db666a-profile_image-300x300.png" style="display: block; margin: 0 auto;" />
-
-Bonjour les koupaings !
-
+Bonjour les koupaings !  
 Je vais commencer par répéter les mots de Leny : Bienvenue à BeCode.
 
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" style="display: block; margin: 0 auto;" />
@@ -15,6 +12,24 @@ Avant de commencer, un petit mot à mon sujet. Je m'appelle [Tanguy](https://tan
 Je voulais vous écrire un petit mot mais je sens que je vais écrire un pavé. Je n'ai pas pour prétention de vous guider, vos coachs le feront mieux que moi. Je vais seulement lister ici quelques conseils, astuces et autres outils que j'aurai voulu connaître avant (ou pendant) d'entamer ma formation BeCode.
 
 Vous qui entrez ici, abandonnez tout espoir, car vous êtes partis pour presque 1 an de galère... et vous allez aimer ça. Si si, j'vous jure.
+
+
+- [❓ BeCode : késako ?](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#-becode--k%C3%A9sako-)
+- [😔 Motivation](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#-motivation)
+- [👩‍🏫 Méthodologies](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#-m%C3%A9thodologies)
+    - [🏃‍ SCRUM](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#-scrum)
+    - [🍅 Pomodoro](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#-pomodoro)
+- [🔨 Outils](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#-outils)
+    - [🃏 Ressources](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#-ressources)
+    - [🧱 Prototyping](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#-prototyping)
+    - [🎨 Design](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#-design)
+    - [⌨️ Typographie](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#%EF%B8%8F-typographie)
+    - [🚀 Technologies](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#-technologies)
+    - [📄 Données](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#-donn%C3%A9es)
+    - [⏱ Performance](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#-performance)
+- [🏢 Stage](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#-stage)
+- [🕓 Fin de promo](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#-fin-de-promo)
+- [🥔 Le mot de la fin](https://github.com/leny/becode-hamilton-relay/blob/master/tanguy_scholtes/README.md#-le-mot-de-la-fin)
 
 
 ## ❓ BeCode : késako ?
