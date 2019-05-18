@@ -4,10 +4,10 @@ Bienvenue à vous, futur(s/es) développ(eurs/euses)!
 Vous vous appretez à vous lancer dans une aventure folle, c'est **BeCode**.
 
 Vous allez en chier, alors voilà quelques ressources qui te seront utile:
-	| - Giphy => T'en aura besoin crois moi;
-	| - Leny => T'en aura aussi très besoin (**BIG UP LENY**);
-	| - La bibliothèque;
-	| - Et ta bible si tu es comme moi: le MAN de linux. C'est le meilleur amis d'une vie!
+	* Giphy => T'en aura besoin crois moi;
+	* Leny => T'en aura aussi très besoin (**BIG UP LENY**);
+	* La bibliothèque;
+	* Et ta bible si tu es comme moi: le MAN de linux. C'est le meilleur amis d'une vie!
 
 Ouai chui un linuxien d'abord. Les Macs c'est tabou, on en viendra tous à bout! (rho le vieux...)
 
@@ -33,4 +33,4 @@ Profitez à fond, et vivez plainement cette aventure, en espérant que vous le v
 
 **BIG UP à TOUS!!**
 Jvous love!! 
-(https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif)
+![I'm out](https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif)
