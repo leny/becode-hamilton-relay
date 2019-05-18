@@ -4,6 +4,7 @@ Bienvenue à vous, futur(s/es) développ(eurs/euses)!
 Vous vous appretez à vous lancer dans une aventure folle, c'est **BeCode**.
 
 Vous allez en chier, alors voilà quelques ressources qui te seront utile:
+
 	* Giphy => T'en aura besoin crois moi;
 	* Leny => T'en aura aussi très besoin (**BIG UP LENY**);
 	* La bibliothèque;
