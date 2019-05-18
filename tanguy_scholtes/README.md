@@ -2,7 +2,9 @@
 
 * * *
 
-Bonjour les koupaings ! <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/519d7408-0f35-4391-af6b-8777a9db666a-profile_image-300x300.png" style="width: 10px;" />
+<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/519d7408-0f35-4391-af6b-8777a9db666a-profile_image-300x300.png" style="display: block; margin: 0 auto;" />
+
+Bonjour les koupaings !
 
 Je vais commencer par répéter les mots de Leny : Bienvenue à BeCode.
 
