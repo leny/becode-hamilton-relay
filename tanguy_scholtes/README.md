@@ -2,7 +2,7 @@
 
 * * *
 
-Bonjour les koupaings ! <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/519d7408-0f35-4391-af6b-8777a9db666a-profile_image-300x300.png" style="width: 1.5em;" />
+Bonjour les koupaings ! <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/519d7408-0f35-4391-af6b-8777a9db666a-profile_image-300x300.png" style="width: 10px;" />
 
 Je vais commencer par répéter les mots de Leny : Bienvenue à BeCode.
 
@@ -15,7 +15,7 @@ Je voulais vous écrire un petit mot mais je sens que je vais écrire un pavé. 
 Vous qui entrez ici, abandonnez tout espoir, car vous êtes partis pour presque 1 an de galère... et vous allez aimer ça. Si si, j'vous jure.
 
 
-- [❓ BeCode : késako ?](tanguy_scholtes/README.md#becode-késako)
+- [❓ BeCode : késako ?](README.md#becode-késako)
 - 😔 Motivation
 - 👩‍🏫 Méthodologies
     - 🏃‍ SCRUM
@@ -191,4 +191,4 @@ Désolé pour ce texte beaucoup trop long. Pour me faire pardonner, voici une ba
 
 C'était Tanguy, pour les LIE-Hamilton-1.7.
 
-<img src="tanguy_scholtes/LIE_Hamilton_1_7.jpeg" style="display: block; margin: 0 auto;" />
+<img src="LIE_Hamilton_1_7.jpeg" style="display: block; margin: 0 auto;" />
