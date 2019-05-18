@@ -104,6 +104,7 @@ Par soucis de lisibilité, je les ai classés par catégories.
     - [Giphy](https://giphy.com/) : Vous l'aurez remarqué, nous sommes de gros fans de gifs animés. Voici un site (loin d'être le seul) où vous en trouverez des tonnes.
     - [GetEmoji](https://getemoji.com/) : Des emojis, ça rend tout de suite un texte plus sympa. Mais on n'est pas toujours dans une application qui propose un emoji picker. Sur GetEmoji, il vous suffit de copier-coller l'emoji de votre choix et le tour est joué. En plus, on peut voir pour chaque emoji les différentes versions (Google, Facebook, etc.) afin de se faire une idée de ce que ça donnera sur d'autres supports.
     - [Adorable Avatars](http://avatars.adorable.io/#demo) : De quoi générer rapidement et facilement des avatars pour vos utilisateurs.
+    - [Formspree](https://formspree.io/) : un formulaire de contact on ne peut plus simple à intégrer et à utiliser. La version gratuite devrait amplement suffire à vos besoins.
 
 - ### 🧱 Prototyping
     Des outils pour vous aider à concevoir vos sites.
@@ -134,6 +135,7 @@ Par soucis de lisibilité, je les ai classés par catégories.
     Des ressources spécifiques à certaines technologies.
     - [DevHints](https://devhints.io/) : Une collection de cheatsheets sur une grande variété d'outils, technologies et librairies.
     - [MarkDown Cheatsheet](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) : Le guide de GitHub sur la rédaction en MarkDown, avec des exemples. Très pratique pour l rédaction de Readme sur GitHub.
+    - [Git Explorer](https://gitexplorer.com/) : Un problème sur GitHub mais vous ne connaissez pas la commande qui permet de le faire ? Git Explorer est là pour vous. En choisissant simplement ce que vous voulez faire dans les menus déroulants de gauche, vous obtiendrez la commande qui permet de faire cette action et comment s'en servir.
     - [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/) : Un pense-bête visuel pour Git Flow, une extension Git facilitant la gestion de projet via des conventions de nommage et de création de branches.
     - [React Cheatsheet](https://reactcheatsheet.com/) : De quoi retrouver rapidement la méthode qui vous échappe, avec un lien vers la doc officielle.
 
