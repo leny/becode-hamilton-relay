@@ -16,7 +16,7 @@ Bon on m'avait pas, pas de débat politique, mais j'ai pas su... :(
 
 Blague à part, vous allez kiffer, et votre vie va changer, je l'espère en tout cas. Parce que la mienne, n'a plus rien à voir avec tout ce que j'ai pu connaitre.
 
-Malheureusement, vous ne serez pas entourer par notre coach secondaire (**BIG UP COACH K**. Il était lui aussi merveilleux, et ma transmit une passion pour les systèmes, qui maintenant m'anime énormement dans mon travail (même si je suis en stage).
+Malheureusement, vous ne serez pas entourer par notre coach secondaire (**BIG UP COACH K**). Il était lui aussi merveilleux, et ma transmit une passion pour les systèmes, qui maintenant m'anime énormement dans mon travail (même si je suis en stage).
 
 J'ai compris des concepts que je n'aurais jamais pensé pouvoir froler du pied.
 
