@@ -23,4 +23,4 @@ D'ici la tout le bassin liégeois aura entendu parler de Pilou
 
 ![Meme](https://nsa40.casimages.com/img/2019/05/21/19052110294924684.jpg)
 
-Ha et j'ai pas relu faut pas déconné
+Ha et j'ai pas relu faut pas déconné.
